@@ -37,7 +37,32 @@
 - ![image](https://github.com/user-attachments/assets/4907f2f3-781d-4259-a3c9-2ea9f691396b)
 
 ## hidden files
+- understood the concept of hidden files   
+- it starts with `.` and thus to display we write `ls -a`   
+- ![image](https://github.com/user-attachments/assets/a0fb91c3-d858-4c16-9187-8630cefe221b)
+
+## An Epic Filesystem Quest   
+- used `cd` to open   
+- `cat` to read   
+- `ls` to see files and `ls -a` for hidden files   
+- and where `cd` was not allowed I directly used `ls` and then `cat /file/location`
+
+## making directories
+- understood the command `mkdir` which is used to create a directory   
+- created `pwn` in `tmp` and then created a file using `touch college`    
+- ![image](https://github.com/user-attachments/assets/bf7fe639-baba-428f-8abb-1b414504eb1f)
+
+## finding files
+- understood the function of `find`    
+- used `find -name flag`      
+- then tried for each file where permission is given    
+- ![image](https://github.com/user-attachments/assets/82102c78-476c-472c-8e35-7ca2b281a8fd)
+
+## linking files
 - 
+
+
+
 
 
 
