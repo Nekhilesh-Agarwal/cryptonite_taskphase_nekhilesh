@@ -59,8 +59,8 @@
 - ![image](https://github.com/user-attachments/assets/82102c78-476c-472c-8e35-7ca2b281a8fd)
 
 ## linking files
-- 
-
+- used `-ln s` and then the file path
+- then used `/challenge/catflag` to read out the catflag
 
 
 
